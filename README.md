@@ -20,5 +20,5 @@
   - MQTT dashboard (Android Application)
 
 ## Block Diagram
-![block_diagram]()
+![block_diagram](https://github.com/chakri01/Smart_Dustbin/blob/main/block_diagram.jpg)
 
